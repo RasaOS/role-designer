@@ -1,0 +1,5 @@
+{
+  "name": "rasa-role-designer",
+  "version": "0.1.0",
+  "description": "The Designer role (`designer`) as a RasaOS role module. The request changes anything the person sees"
+}

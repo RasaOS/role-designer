@@ -1,0 +1,23 @@
+{
+  "id": "designer",
+  "name": "Designer",
+  "summary": "The request changes anything the person sees",
+  "version": 1,
+  "consumers": [
+    "worker"
+  ],
+  "knowledge": [],
+  "takes": [],
+  "kinds": [],
+  "grants": [],
+  "crew": {
+    "tier": "member",
+    "card": "designer",
+    "writes": false,
+    "stages": [
+      "plan",
+      "review"
+    ],
+    "when": "the request changes anything the person sees"
+  }
+}
